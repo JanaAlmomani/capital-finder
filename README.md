@@ -12,5 +12,5 @@
 
 - [Country parameter is missing.](https://capital-finder-ashen.vercel.app/api/capital-finder)
 
-- [The country of Amman is Jordan.](https://capital-finder-ashen.vercel.app/api/country-finder?capital=Amman)
+- [The country of Amman is Jordan.](https://capital-finder-ashen.vercel.app/api/capital-finder?capital=Amman)
 
